@@ -8,7 +8,7 @@ Cooking my description...🫕
 
 ### Language & Tools
 
-<img aling="left" alt="Java" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/git.svg" />
+<img aling="left" alt="Java" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <!--
 **SaganeZhae/SaganeZhae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
