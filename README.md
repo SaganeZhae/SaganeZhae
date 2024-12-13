@@ -1,5 +1,14 @@
-## Hi there 👋
+# 🌙 Sagane Zhae
 
+**' Data Engineer | Level: 2 '**
+
+Cooking my description...🫕
+
+---
+
+### Language & Tools
+
+<img aling="left" alt="Java" width="30px" style="padding-rigth:10px;" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/git.svg"
 <!--
 **SaganeZhae/SaganeZhae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
