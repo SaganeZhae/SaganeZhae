@@ -3,8 +3,9 @@
 ` Junior Data Engineer | Level: 2 `
 
 I'm a student with 1 year of practical data exploration and analysis.
+<br>
 Cooking my description...🫕
-
+</br>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/valerie-de-la-cruz-ba455828b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
