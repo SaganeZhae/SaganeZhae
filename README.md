@@ -1,6 +1,6 @@
 # 🌙 Sagane Zhae
 
-` Data Engineer | Level: 2 `
+` Junior Data Engineer | Level: 2 `
 
 Cooking my description...🫕
 
