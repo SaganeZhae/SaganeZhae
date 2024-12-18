@@ -1,6 +1,6 @@
 # 🌙 Sagane Zhae
 
-` Junior Data Engineer | Level: 2 `
+` Data Engineer/Scientist Student | Level: 2 `
 
 I'm a student with 1 year of practical data exploration and analysis.
 <br>
